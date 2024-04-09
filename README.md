@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Stanislau
 
-<!--
-**yumeinaruu/yumeinaruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 1+ years experience in developing software-as-service applications using Java stack. I'm always open in working with new tech stack. I'm also still learning and open for any interesting project I could help with. Following is my current tech stack.
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Java (17), Spring MVC, Spring Boot, JDBC, Hibernate, Spring Data JPA, Restful Services
+- Frontend (The most basic knowledge) : HTML5, CSS3
+- Database: PostgreSQL
+- Build Tools: Maven
+- Servers: Tomcat
+- Version Control: Git
+- IDE: Intellij IDEA
+- Operating System: Windows, Linux
+
+Soft Skills:
+
+- Teamwork, Problem Solving, Communication, Creativity, Critical Thinking, Adaptivity
