@@ -1,18 +1,31 @@
-### Hi there 👋 I'm Stanislau
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Lisavy+Stanislau.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-I have 1+ years experience in developing software-as-service applications using Java stack. I'm always open in working with new tech stack. I'm also still learning and open for any interesting project I could help with. Following is my current tech stack.
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
 
-Tech Stack:
+### Technologies and tools:
 
-- Backend: Java (17), Spring MVC, Spring Boot, JDBC, Hibernate, Spring Data JPA, Restful Services
-- Frontend (The most basic knowledge) : HTML5, CSS3
-- Database: PostgreSQL
-- Build Tools: Maven
-- Servers: Tomcat
-- Version Control: Git
-- IDE: Intellij IDEA
-- Operating System: Windows, Linux
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">       
+  <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+</div><br>
 
-Soft Skills:
+### GitHub Stats
 
-- Teamwork, Problem Solving, Communication, Creativity, Critical Thinking, Adaptivity
+<div align="center" style="display: flex; justify-content: center;">
+  <a href="https://github.com/anacristinaneves">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yumeinaruu&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumeinaruu&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
+    
+### Contact
+
+<div> 
+  <a href="https://www.linkedin.com/in/lisavy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:lisavystanislau@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
